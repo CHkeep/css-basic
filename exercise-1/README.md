@@ -2,7 +2,11 @@
 
 ### 完成下列选择题，请将答案写到每题后面括号里
 
+<<<<<<< HEAD
 1.在下列选择器中，哪一个代表 section class 里面的所有 title class? (A)
+=======
+1.在下列选择器中，哪一个代表 section class 里面的所有 title class? ( A)
+>>>>>>> aa48d151d70b3a2334dc2b31278399ff96d29d42
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>  
@@ -10,7 +14,11 @@ C <lable>.section, .title {}</lable>
 D <lable>.section > .title {}</lable>  
 
 
+<<<<<<< HEAD
 2.在下列选择器中，哪一个代表 section class 内部紧邻的 title class? (D)
+=======
+2.在下列选择器中，哪一个代表 section class 内部紧邻的 title class? ( D)
+>>>>>>> aa48d151d70b3a2334dc2b31278399ff96d29d42
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>   
@@ -18,7 +26,11 @@ C <lable>.section, .title {}</lable>
 D <lable>.section > .title {}</lable>  
 
 
+<<<<<<< HEAD
 3.在下列选择器中，哪一个代表同一个元素同时拥有 section 和 title 两个class? (B)
+=======
+3.在下列选择器中，哪一个代表同一个元素同时拥有 section 和 title 两个class? ( B)
+>>>>>>> aa48d151d70b3a2334dc2b31278399ff96d29d42
 
 A <lable>.section .title {}</lable>  
 B <lable>.section.title {}</lable>   
@@ -36,7 +48,11 @@ D <lable>.section > .title {}</lable>
 
 
 
+<<<<<<< HEAD
 5.在下列CSS选择器中，优先级从高到低是：(2)
+=======
+5.在下列CSS选择器中，优先级从高到低是：( 2)
+>>>>>>> aa48d151d70b3a2334dc2b31278399ff96d29d42
 ```
 <div class="section">
     <h1 id="title" class="title">title</h1>
